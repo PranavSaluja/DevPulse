@@ -1,0 +1,23 @@
+# Java
+target/
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment & Secrets
+.env
+*.pem
+*.key
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Mac
+.DS_Store

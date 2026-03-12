@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+  # Kafka and Zookeeper will be added on Day 3
+  # webhook-service will be added on Day 3
+  # ai-review-service will be added on Day 3
